@@ -1,1 +1,1 @@
-# everyday-planner.
+# https://everyday-planner.com
